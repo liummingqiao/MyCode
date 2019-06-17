@@ -1,0 +1,32 @@
+
+/* 定义一个容器 */
+.container{
+  height: 1220rpx;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+    background: url('http://d-paper.i4.cn/max/2018/03/01/14/1519885484166_364243.JPG') no-repeat;
+    background-size: 100% 100%;
+}
+/* 显示信息和按钮的布局方式 */
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* 授权按钮图片 */
+.Logoo{
+  margin: 100rpx 0rpx 0rpx 0rpx;
+  width:300rpx;
+  height:300rpx;
+}
+.bgColor{
+  height: 1250rpx;
+  width: 900rpx;
+  }
+/* logo图标属性设置 */
+.logo{
+  width: 150rpx;
+  height: 150rpx;
+  margin:20rpx 0rpx 15rpx 40rpx;  /* 上右下左 */
+}
