@@ -1,4 +1,5 @@
 const app = getApp()
+//黄迪hello
 Page({
   data: {
     userInfo: {},
