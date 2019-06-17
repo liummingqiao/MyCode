@@ -1,5 +1,5 @@
 const app = getApp()
-//黄迪hello
+//黄迪hellohdasdjns
 Page({
   data: {
     userInfo: {},
